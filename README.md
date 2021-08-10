@@ -52,9 +52,41 @@ For this tool to work in the best possible way please follow these instructions:
 * Add more than 1 word per entry to wordlist.
 * Many more to come...
 
+# اوامر تثبيت الاداة
+
+
+pkg update -y
+
+
+• pkg install git -y
+
+
+• pkg install python -y
+
+• git clone https://github.com/sadamshr3be/wicrackfi-lasharabi
+
+• cd wicrackfi-lasharabi
+
+
+• python wicrackfi.py
+
+# قناتي علـّۓ. اليوتيوب 
+
+https://youtube.com/channel/UCGmfv3D0tcKvHp8Tolf6Yqw
+
+# قناتي على التلجرام 
+
+https://t.me/termuxalsharabi
+# المدونه. 
+
+https://sadamalsharabi.blogspot.com
+
+
+
+
 
 
 
 ---
 
-Made by Pedro Gomes, 2020
+Made by Pedro Gomes, 2021
